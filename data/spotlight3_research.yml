@@ -1,0 +1,23 @@
+####################### Spotlight #########################
+style: "style5 orient-left content-align-left image-position-center onscroll-image-fade-in color2 fullscreen"
+id: "research"
+title : "Research Areas"
+  # <span class="demo-controls">appearance with a number of modifiers</span>
+content: |
+  <ul class="alt">
+    <li><strong>Learning with limited guidance</strong>: Our datasets are at massive trillion scale. Labeling a small portion of them is cost-prohibitive. Additionally the human labels volume varies by NLP tasks. 
+    We are doing active research in active learning, semi/weakly-supervised learning, transfer Learning, meta-learning, and multi-task learning to build E-commerce query understanding with limited human guidance</li>
+    <li><strong>Knowledge Graph Mining</strong>: Products on Amazon forms a giant knowledge graph. We are doing research to extract structure knowledge from product textual and image descriptions. 
+    Additionally, we have a massive trillion scale heterogeneous graph of products, entities, queries, sellers, and customers. We are doing active research on graph mining to extract common sense knowledge from the graph</li>
+    <li><strong>Deep Learning and NLP</strong>: We are actively work on NLP tasks for language modeling, query rewriting, entity linking, few-shot learning, text generation, and QnA.</li>
+    <li><strong>Search and Recommendation</strong>: We work on classic information retrieval research for recommendation and multilingual search. </li>
+    <li><strong>Large Scale Machine Learning</strong>: We work on Data Embedding and Compression, Model distillation, Large language model Pretraining, leveraging the trillion scale data and AWS new hardware.</li>
+    <li><strong>Conversational Shopping</strong>: Shopping is a multi-turn engagement model. How can we use Contextual Bandits for Multi-Turn Engagement, Reinforcement Learning to make our search engine appears as an inteligent sales person?</li>
+  </ul>
+  <br>
+  <br>
+  Image Credit: DALL·E 2
+# button: 
+#   label: "Learn More"
+#   link: "#"
+image: "images/DALL·E 2022-11-13 22.54.57 - a brain on a moon shot rocket.png"

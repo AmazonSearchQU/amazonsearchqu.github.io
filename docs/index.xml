@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amazon Search Mission and Query Understanding</title>
+    <link>/</link>
+    <description>Recent content on Amazon Search Mission and Query Understanding</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Set</title>
+      <link>/dataset/</link>
+      <pubDate>Thu, 30 Apr 2020 00:12:12 -0400</pubDate>
+      
+      <guid>/dataset/</guid>
+      <description>asd</description>
+    </item>
+    
+  </channel>
+</rss>

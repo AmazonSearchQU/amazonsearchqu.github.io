@@ -1,0 +1,16 @@
+title: "Alumni"
+style: "style1 small "
+id: "alumni"
+# content: |
+#   We work closely with academics.
+profiles:
+  - title: "Dr. Danqing Zhang"
+    website: "https://danqingz.github.io/"
+  - title: "Dr. Sergey Kirshner"
+    website: "http://www.sergeykirshner.com/"
+  - title: "Dr. Minghui He"
+    linkedin: "https://www.linkedin.com/in/minghui-he/"
+  - title: "Dr. Jacek Golebiowski"
+    googleScholar: "https://scholar.google.com/citations?user=K5ivIucAAAAJ&hl=en"
+  - title: "Dr. Konstantine Arkoudas"
+    googleScholar: "https://www.linkedin.com/in/konstantine-arkoudas-23682351/"

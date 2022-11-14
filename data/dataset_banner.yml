@@ -1,0 +1,15 @@
+####################### Banner #########################
+style: "style3 orient-right content-align-left image-position-center  onload-image-fade-in onload-content-fade-right invert color4"
+title : "Data and Code Repository"
+subtitle: |
+  Amazon Search Mission and Query Understanding
+content : |
+  We open source our data and code base for better support industrial level research.
+buttonlist:
+  - label : "SMU Home"
+    link : "/#"
+# button:
+#   label : "Intern Opportunity"
+#   link : "#job"
+image : "/images/search_banner.png"
+

@@ -1,0 +1,41 @@
+title: "Interns"
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "intern_alumni"
+# content_class: "full-width"
+content: |
+  Upcoming, Current, and Alumni
+  <ul>
+  <li>Changlong Yu, HKUST advised by Prof Yangqiu Song </li>
+  <li>Jiaxin Bai, HKUST advised by Prof Yangqiu Song </li>
+  <li>Xin Liu, HKUST advised by Prof Yangqiu Song </li>
+  <li>Changlong Yu, HKUST advised by Prof Yangqiu Song </li>
+  <li>Teng Xiao, Penn State advised by Suhang Wang </li>
+  <li>Zining Zhu, University of Toronto </li>
+  <li>Jie Huang, UIUC</li>
+  <li>Yu Wang, UIC</li>
+  <li>Juan Zha, USC</li>
+  <li>Peifeng Wang, USC</li>
+  <li>Enyan Dai, Penn State University</li>
+  <li>Yaochen Xie, TAMU</li>
+  <li>Haoyu Wang, Purdue</li>
+  <li>Yufei Wang, </li>
+  <li>Wei Jin, MSU advised by Prof Jiliang Tang, 2021 Fall, <a href="http://cse.msu.edu/~jinwei2/">http://cse.msu.edu/~jinwei2/</a></li>
+  <li>Zijie Huang, UCLA advised by Prof Yizou Sun, 2021 Summer, <a href="https://zijieh.github.io/">https://zijieh.github.io/</a></li>
+  <li>Ruijie Wang, UIUC advised by Prof Tarek Abdelzaher, 2021 Summer, <a href="https://scholar.google.com/citations?user=S1TuNNIAAAAJ&hl=en">Google Scholar Page</a></li>
+  <li>Sheikh Sarwar, UMass advised by Prof James Allan, 2021 Summer, <a href="https://people.cs.umass.edu/~smsarwar/">https://people.cs.umass.edu/~smsarwar/</a></li>
+  <li>Chen Liang, GaTech advised by Prof Tuo Zhao, 2021 Fall, <a href="https://cliang1453.github.io/">https://cliang1453.github.io/</a></li>
+  <li>Jingfeng Yang, GaTech advised by Prof Diyi Yang, 2021 Fall, <a href="https://jingfengyang.github.io/">https://jingfengyang.github.io/</a></li>
+  <li>Qi Zeng, UIUC advised by Prof Heng Ji, 2022 Summer, <a href="https://vickizeng.com/">https://vickizeng.com/</a></li>
+  <li>Zongyue Qin, UCLA advised by Prof Yizou Sun, 2022 Summer</li>
+  <li>Tao Yang, Utah advised by Prof Qingyao Ai, 2021 Summer, <a href="http://www.cs.utah.edu/~taoyang/">http://www.cs.utah.edu/~taoyang/</a></li>
+  <li>Tong Zhao, Notre Dame advised by Prof Meng Jiang, 2021 Summer, <a href="https://tzhao.io/">https://tzhao.io/</a></li>
+  <li>Rui Feng, GaTech advised by Prof Chao Zhang, 2021 Spring, <a href="https://scholar.google.com/citations?user=5PjMzfEAAAAJ&hl=en">Google Scholar Page</a></li>
+  <li>Yujia Xie, GaTech advised by Prof Tuo Zhao and Hongyuan Zha, 2021 Spring, <a href="https://sites.google.com/view/yujia">https://sites.google.com/view/yujia</a></li>
+  <li>Simiao Zuo, GaTech advised by Prof Tuo Zhao, 2020 Winter, <a href="https://simiaozuo.github.io/">https://simiaozuo.github.io/</a></li>
+  <li>Hui Liu, Queens advised by Prof Xiaodan Zhu, 2020 Fall, <a href="https://layneins.github.io/">https://layneins.github.io/</a></li>
+  <li>Tao Li, University of Utah advised by Prof Vivek Srikumar, 2019 Summer, <a href="https://www.cs.utah.edu/~tli/">https://www.cs.utah.edu/~tli//</a></li>
+  </ul>
+  <br>
+  <br>
+  Image Credit: DALL·E 2
+image: "images/DALL·E 2022-11-14 05.19.34 - a factory is making thousands of baby octopus and pack them into amazon boxes, cyberpunk, cartoon.png"

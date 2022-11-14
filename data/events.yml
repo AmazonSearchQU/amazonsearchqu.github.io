@@ -1,0 +1,11 @@
+title: "Events"
+style: "style2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "events"
+# content_class: "full-width"
+content: |
+  <ul>
+  <li>Announcing <a href="https://km-ecomm-www.github.io/2021/">The First Workshop on Evaluations and Assessments of Neural Conversation Systems (EANCS) Co-located with EMNLP 2021 </a></li>
+  <li>The June 2021 Issue of IEE Special Bulletin on Data Engineering, edited by Bing and Sreyashi, is now <a href="http://sites.computer.org/debull/A21june/issue1.htm">published</a></li>     
+  <li>We successfully organized the <a href="https://km-ecomm-www.github.io/2021/">Knowledge Management in E-Commerce Workshop</a> at the WebConference 2021</li>
+  </ul>
+image: "images/DALL·E 2022-11-14 04.50.25 - an octopus is playing -- Wassily Kandinsky.png"

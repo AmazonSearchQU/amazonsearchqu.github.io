@@ -1,0 +1,24 @@
+####################### Spotlight #########################
+style: "style5 orient-left content-align-left image-position-left onscroll-image-fade-in fullscreen color1 invert"
+id: "intern"
+title : "Hiring Research Interns"
+content: |
+  The Search Mission Query Understanding (SMU) team in Amazon Search is looking for PhD students worldwide in NLP, Information Retrieval, and Data Mining to join us in 2023 as research interns. As a PhD intern, you will solve challenging problems such as knowledge graph construction and mining, entity recognition and linking, unsupervised learning and weak supervised Learning, multi-task and multi-lingual learning, user behavior graph mining, large scale machine learning and multi-turn user interaction modeling. You will enjoy the internship in the team if you like working on massive data sets, see you research results make hundreds of millions dollars production impact and publish you result in top conference. Our internship focuses on publications. In addition to highly competitive compensation, you will receive full support of your research and publication during your internship, including mentorship and advisory from top scholars in the field. We look for interns in Spring, Summer, and Fall. Contact: <strong><a href="mailto: smu-as-intern-hire@amazon.com">smu-as-intern-hire@amazon.com</a></strong> 
+  <header>
+      <h2>Why Choose Us?</h2>
+      <p>Scientists and Interns loves our team culture</p>
+  </header>
+  <ul>
+    <li>Research and publication obsession: every intern has the full support to public a top conference paper</li>
+    <li>Massive data and massive hardware support</li>
+    <li>Strong academia collaboration on research</li>
+    <li>Research work that matters in production: our research work makes its way to production and real customer experience improvements</li>
+    <li>Freedom and fun: we support 20% side project, monthly team building, reading groups, hackathones, career coaching and mentorship</li>
+  </ul>
+  <br>
+  <br>
+  Image Credit: DALL·E 2
+# button: 
+#   label: "Learn More"
+#   link: "#"
+image: "images/DALL·E 2022-11-13 22.16.38 - mad octopus scientis is making GPU card with a large background.png"

@@ -1,0 +1,11 @@
+.full-width {
+    width: 100% !important;
+    max-width: 100% !important;
+}
+.inner-child-full-width.inner {
+    width: 100% !important;
+    max-width: 100% !important;
+} 
+black-text {
+    color: #000000 !important;
+}

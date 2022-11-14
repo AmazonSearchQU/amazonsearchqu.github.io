@@ -1,0 +1,88 @@
+####################### Spotlight #########################
+style: "style4 orient-center content-align-left image-position-center onscroll-image-fade-in"
+id: "publications"
+title : "Publications"
+content_class: "full-width"
+content: |
+    <ul>
+      <li><p><strong>Query Attribute Recommendation at Amazon Search </strong> <br>
+        Chen Luo, William Headean, Neela Avudaiappan, Haoming Jiang, Tianyu Cao, Qingyu Yin, Yifan Gao, Zheng Li, Rahul Goutam, Haiyang Zhang, Bing Yin (<strong>RecSys 2022</strong>)<br>
+      </li>
+      <li><p><strong>Task-Agnostic Graph Explanations </strong> [<a href="https://arxiv.org/pdf/2202.08335.pdf">pdf</a>]<br>
+        Yaochen Xie, Sumeet Katariya, Xianfeng Tang, Edward Huang, Nikhil Rao, Karthik Subbian, Shuiwang Ji (<strong>NeurIPS 2022</strong>)<br>
+      </li>
+      <li><p><strong>Learning to Sample and Aggregate: Few-shot Reasoning over Temporal Knowledge Graph </strong> [pdf][code]<br>
+        Ruijie Wang, Zheng Li, Dachun Sun, Shengzhong Liu, Jinning Li, Bing Yin, Tarek Abdelzaher (<strong>NeurIPS 2022</strong>)<br>
+      </li>
+      <li><p><strong>Multilingual knowledge graph completion with self-supervised adaptive graph alignment</strong> [<a href="https://aclanthology.org/2022.acl-long.36.pdf">pdf</a>][<a href="https://github.com/amzn/ss-aga-kgc">code</a>][<a href="https://github.com/amzn/ss-aga-kgc/tree/main/EPKG_DATA">data</a>]<br>
+        Zijie Huang, Zheng Li, Haoming Jiang, Tianyu Cao, Hanqing Lu, Bing Yin, Karthik Subbian, Yizhou Sun, Wei Wang (<strong>ACL 2022</strong>)<br>
+      </li>
+      <li><p><strong>RETE: Retrieval-enhanced temporal event forecasting on unified query product evolutionary graph</strong>  [<a href="https://arxiv.org/pdf/2205.10471.pdf">pdf</a>][<a href="https://github.com/amzn/RETE_WWW2020">code</a>]<br>
+        Ruijie Wang, Zheng Li, Danqing Zhang, Qingyu Yin, Tong Zhao, Bing Yin, Tarek Abdelzaher (<strong>WWW 2022</strong>)<br>
+      </li>
+      <li><p><strong>ROSE: Robust caches for Amazon product search</strong><br>
+        Chen Luo, Vihan Lakshman, Anshumali Shrivastava, Tianyu Cao, Sreyashi Nag, Rahul Goutam, Hanqing Lu, Yiwei Song, Bing Yin (<strong>WWW 2022</strong>)<br>
+      </li>
+      <li><p><strong>ALLIE: Active learning on large-scale imbalanced graphs</strong><br>
+        Limeng Cui, Xianfeng Tang, Sumeet Katariya, Nikhil Rao, Pallav Agrawal, Karthik Subbian, Dongwon Lee (<strong>WWW 2022</strong>)<br>
+      </li>
+      <li><p><strong>Massive text normalization via an efficient randomized algorithm</strong><br>
+        Nan Jiang, Chen Luo, Vihan Lakshman, Yesh Dattatreya, Yexiang Xue (<strong>WWW 2022</strong>)<br>
+      </li>
+      <li><p><strong>Search filter ranking with language-aware label embeddings</strong><br>
+        Jacek Golebiowski, Felice Antonio Merra, Ziawasch Abedjan, Felix Biessmann (<strong>WWW 2022</strong>)<br>
+      </li>
+      <li><p><strong>Condensing Graphs via One-Step Gradient Matching</strong>   [<a href="https://arxiv.org/pdf/2206.07746.pdf">pdf</a>][<a href="https://github.com/amazon-research/DosCond">code</a>]<br>
+        Wei Jin, Xianfeng Tang, Haoming Jiang, Zheng Li, Danqing Zhang, Jiliang Tang, Ying Bin (<strong>SIGKDD 2022</strong>)<br>
+      </li>
+      <li><p><strong>Can clicks be both labels and features? Unbiased behavior feature collection and uncertainty-aware learning to rank</strong><br>
+        Tao Yang, Chen Luo, Hanqing Lu, Parth Gupta, Bing Yin, Qingyao Ai (<strong>SIGIR 2022</strong>)<br>
+      </li>
+      <li><p><strong>CERES: Pretraining of graph-conditioned transformer for semi-structured session data</strong><br>
+        Rui Feng, Chen Luo, Qingyu Yin, Bing Yin, Tuo Zhao, Chao Zhang (<strong>NAACL 2022</strong>)<br>
+      </li>
+      <li><p><strong> Retrieval-Augmented Multilingual Keyphrase Generation with Retriever-Generator Iterative Training</strong> [<a href="https://arxiv.org/pdf/2205.10471.pdf">pdf</a>][<a href="https://github.com/amzn/multilingual-keyphrase-generation">code</a>][<a href="https://github.com/Yifan-Gao/multilingual_keyphrase_generation">data</a>]<br>
+         Yifan Gao, Qingyu Yin, Zheng Li, Rui Meng, Tong Zhao, Bing Yin, Irwin King, Michael R. Lyu (<strong>NAACL 2022 (Finding)</strong>)<br>
+      </li>
+      <li><p><strong>SeqZero: Few-shot Compositional Semantic Parsing with Sequential Prompts and Zero-shot Models</strong><br>
+        Jingfeng Yang, Haoming Jiang, Qingyu Yin, Danqing Zhang, Bing Yin, Diyi Yang (<strong>NAACL 2022 (Finding)</strong>)<br>
+      </li>
+      <li><p><strong>MetaTS: Meta Teacher-Student Network for Multilingual Sequence Labeling with Minimal Supervision</strong><br>
+        Zheng Li, Danqing Zhang, Tianyu Cao, Ying Wei, Yiwei Song and Bing Yin (<strong>EMNLP 2021</strong>)<br>
+      </li>
+      <li><p><strong>QUEACO: Borrowing treasures from weakly labeled behavior data for query attribute value extraction</strong><br>
+        Danqing Zhang*, Zheng Li*, Tianyu Cao, Chen Luo, Tony Wu, Hanqing Lu, Yiwei Song, Bing Yin, Tuo Zhao and Qiang Yang (<strong>CIKM 2021, Industry track, * denotes equal contribution</strong>)<br>
+      </li>
+      <li><p><strong>Named Entity Recognition with Small Strongly Labeled and Large Weakly Labeled Data</strong> 
+        [<a href="https://arxiv.org/abs/2106.08977">pdf</a>][<a href="https://github.com/amzn/amazon-weak-ner-needle">Codes</a>]<br>
+        Haoming Jiang, Danqing Zhang, Tianyu Cao, Bing Yin, Tuo Zhao (<strong>ACL 2021, Long paper, oral</strong>)<br></p>
+      </li>
+      <li><p><strong>Improving Pretrained Models for Zero-shot Multi-label Text Classification through Reinforced Label Hierarchy Reasoning</strong> 
+        [<a href="https://arxiv.org/abs/2104.01666">pdf</a>]<br>
+        Hui Liu, Danqing Zhang, Bing Yin and Xiaodan Zhu (<strong>NAACL 2021</strong>)<br></p>
+      </li>
+        <li><p><strong>Graph-based Multilingual Product Retrieval in E-Commerce Search</strong> 
+        [<a href="https://www.amazon.science/publications/graph-based-multilingual-product-retrieval-in-e-commerce-search">pdf</a>]<br>
+        Hanqing Lu, Youna Hu, Tong Zhao, Tony Wu, Yiwei Song and Bing Yin (<strong>NAACL 2021, Industry track</strong>)<br></p>
+      </li>
+      <li><p><strong>Learn to Cross-lingual Transfer with Meta Graph Learning Across Heterogeneous Languages</strong> 
+        [<a href="https://hsqmlzno1.github.io/assets/publications/EMNLP2020.pdf">pdf</a>]<br>
+        Zheng Li, Mukul Kumar, William Headden, Bing Yin, Ying Wei, Yu Zhang, Qiang Yang (<strong>EMNLP 2020, Long paper, oral</strong>)<br></p>
+      </li>
+      <li><p><strong>QUEEN: Neural Query Rewriting in E-commerce</strong> 
+        [<a href="https://www.amazon.science/publications/queen-neural-query-rewriting-in-e-commerce">pdf</a>]<br>
+        Yaxuan Wang*, Hanqing Lu*, Yunwen Xu, Rahul Goutam, Yiwei Song and Bing Yin (<strong>WWW KMECommerce Workshop 2021</strong>)<br></p>
+      </li>
+      <li><p><strong>Unsupervised Synonym Extraction for Document Enhancement in E-commerce Search</strong> 
+        [<a href="https://www.amazon.science/publications/unsupervised-synonym-extraction-for-document-enhancement-in-e-commerce-search">pdf</a>]<br>
+        Hanqing Lu, Yunwen Xu, Qingyu Yin, Tianyu Cao, Boris Aleksandrovsky, Yiwei Song, Xianlong Fan and Bing Yin (<strong>WWW KMECommerce Workshop 2021</strong>)<br></p>
+      </li>
+      <li><p><strong>Hierarchical Multi-label Classification of Queries to Browse Categories</strong> 
+        [<a href="https://sigir-ecom.github.io/ecom20Papers/paper7.pdf">pdf</a>]<br>
+        Heran Lin, Pengcheng Xiong, Danqing Zhang, Fan Yang, Ryoichi Kato, Mukul Kumar, William Headden and Bing Yin (<strong>SIGIR ECommerce Workshop 2020 Best Paper</strong>)<br></p>
+      </li>
+    </ul>
+# button: 
+#   label: "Learn More"
+#   link: "#"
+image: "images/spotlight03.jpg"

@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in color6"
+id: "job"
+title : "Job Opportunity"
+content: |
+  Contact <strong><a href="mailto: smu-as-intern-hire@amazon.com">smu-as-intern-hire@amazon.com</a></strong> if you are interested in our job opportunities (Please contact us if you have more than 2 first-author papers published in top-tier conferences such as NeurIPS, ICML, ICLR, ACL, EMNLP, NAACL, KDD, WWW, AAAI, IJCAI, SIGIR. We prefer Ph.D students. ). 
+# button: 
+#   label: "Learn More"
+#   link: "#"
+image: "images/amazon jobs.png"

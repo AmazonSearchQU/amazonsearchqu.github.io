@@ -1,0 +1,21 @@
+title: "Visiting Scholars"
+style: "style1 small "
+id: "scholar"
+# content: |
+#   We work closely with academics.
+profiles:
+  - title: "Prof. Yangqiu Song"
+    content: "HKUST"
+    profileimg: "http://www.cse.ust.hk/~yqsong/YangqiuSong.jpg"
+    website: "https://www.cse.ust.hk/~yqsong/"
+    googleScholar: "https://scholar.google.com/citations?user=MdQZ-q8AAAAJ&hl=en"
+  - title: "Prof. Suhang Wang"
+    profileimg: "https://fullcircle.asu.edu/wp-content/uploads/2018/12/Wang-Suhang-683x1024.jpg"
+    content: "Penn State University"
+    website: "https://suhangwang.ist.psu.edu/"
+    googleScholar: "https://scholar.google.com/citations?user=cdT_WMMAAAAJ&hl=en"
+  - title: "Prof. Chao Zhang"
+    content: "Georgia Institute of Technology"
+    profileimg: "http://chaozhang.org/chao.jpg"
+    website: "http://chaozhang.org/"
+    googleScholar: "https://scholar.google.com/citations?hl=en&user=CeEO6SIAAAAJ"

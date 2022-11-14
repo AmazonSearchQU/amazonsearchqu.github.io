@@ -1,0 +1,29 @@
+{{ $imgurl := "images/search_banner.png" }}
+{{ with .profileimg }}
+    {{ $imgurl = . }}
+{{ end }}
+<article>
+    <img src="{{ $imgurl }}" style="border-radius: 100%;width: 10rem; height:10rem;border: 0.3rem solid grey;padding: 0.3 rem;object-fit: cover;object-position: center;" alt="Avatar">
+    <div class="caption" style="position: static;opacity:1;background-color:rgba(0, 0, 0, 0.0);">
+        <h3 style="color: black;">{{ .title }}</h3>
+        <p style="color: black;">{{ .content }}</p>
+    </div>
+    
+    <ul class="icons">
+        {{ with .website }}
+        <li><a href="{{ . }}" class="icon brands style2 fa-dribbble" style="color: black;"><span class="label">Dribbble</span></a></li>
+        {{ end }}
+        {{ with .googleScholar }}
+        <li><a href="{{ . }}" class="icon brands style2 fa-google" style="color: black;"><span class="label">Google Scholar</span></a></li>
+        {{ end }}
+        {{ with .linkedin }}
+        <li><a href="{{ . }}" class="icon brands style2 fa-linkedin" style="color: black;"><span class="label">LinkedIn</span></a></li>
+        {{ end }}
+        {{ with .github }}
+        <li><a href="{{ . }}" class="icon brands style2 fa-github" style="color: black;"><span class="label">GitHub</span></a></li>
+        {{ end }}
+        {{ with .twitter }}
+        <li><a href="{{ . }}" class="icon brands style2 fa-twitter" style="color: black;"><span class="label">Twitter</span></a></li>
+        {{ end }}
+    </ul>
+</article>

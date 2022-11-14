@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in color6"
+id: "session"
+title : "Session Data"
+content: |
+  Contain anonymized user product interaction data in short time periods.
+button: 
+  label: "Download (TBR)"
+  link: "#"
+image: "/images/DALL·E 2022-11-14 06.51.20 - user activities on e-commerce shopping website.png"

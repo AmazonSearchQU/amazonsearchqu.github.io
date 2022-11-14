@@ -1,0 +1,27 @@
+####################### Banner #########################
+style: "style3 orient-right content-align-left image-position-center  onload-image-fade-in onload-content-fade-right invert color4"
+title : "Amazon Search Mission and Query Understanding"
+subtitle: |
+  Intellegent Search Experience with Human Level Understanding
+content : |
+  The Mission and Query Understanding team builds the shopping mission understanding pipeline for Amazon's product search engine. We connect customer queries with products through the product knowledge graph. We bring state-of-art machine learning algorithms from NLP, Information Retrieval and Data Mining to improve shopping experience on Amazon. 
+buttonlist:
+  - label : "Job"
+    link : "#job"
+  - label : "Intern Hire"
+    link : "#intern"
+  - label : "Research"
+    link : "#research"
+  - label : "Publications"
+    link : "#publications"
+  - label : "Visting Scholar"
+    link : "#scholar"
+  - label : "People"
+    link : "#people"
+  - label : "Data & Code Repository"
+    link : "/dataset"
+# button:
+#   label : "Intern Opportunity"
+#   link : "#job"
+image : "images/search_banner.png"
+

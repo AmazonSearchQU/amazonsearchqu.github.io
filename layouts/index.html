@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+	{{ partial "banner_buttonlist" site.Data.banner }}
+	{{ partial "spotlight" site.Data.spotlight1_job }}
+	{{ partial "spotlight" site.Data.spotlight2_intern }}
+	{{ partial "spotlight" site.Data.spotlight3_research }}
+	{{ partial "people_gallery" site.Data.scholar }}
+	{{ partial "people_gallery" site.Data.people }}
+	{{ partial "spotlight" site.Data.spotlight4_publication }}
+	{{ partial "spotlight" site.Data.events }}
+	{{ partial "people_gallery" site.Data.alumni }}
+	{{ partial "spotlight" site.Data.intern_alumni }}
+	<!-- {{ partial "gallery" site.Data.gallery }} -->
+	<!-- {{ partial "items" site.Data.items }} -->
+	{{ partial "elements" . }}
+	<!-- {{ partial "elements_reference" . }} -->
+	<!-- {{ partial "template/footer" . }} -->
+
+{{ end }}
