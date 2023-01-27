@@ -5,7 +5,16 @@ title : "Publications"
 content_class: "full-width"
 content: |
     <ul>
-      <li><p><strong>Query Attribute Recommendation at Amazon Search </strong> <br>
+      <li><p><strong>Mutually-paced Knowledge Distillation for Cross-lingual Temporal Knowledge Graph Reasoning </strong> <br>
+         Ruijie Wang, Zheng Li, Jingfeng Yang, Tianyu Cao, Bing Yin, Tarek Abdelzaher (<strong>WWW 2023</strong>)<br>
+      </li>
+       <li><p><strong>HomoDistil: Homotopic Task-Agnostic Distillation of Pre-trained Transformers </strong> <br>
+        Chen Liang, Haoming Jiang, Zheng Li, Xianfeng Tang, Bing Yin, Tuo Zhao (<strong>ICLR 2023</strong>)<br>
+      </li>
+      <li><p><strong>Variational Boosted Soft Trees </strong> <br>
+         Tristan Cinquin, Artur Bekasov (<strong>AISTATS 2023</strong>)<br>
+      </li>
+       <li><p><strong>Query Attribute Recommendation at Amazon Search </strong> <br>
         Chen Luo, William Headean, Neela Avudaiappan, Haoming Jiang, Tianyu Cao, Qingyu Yin, Yifan Gao, Zheng Li, Rahul Goutam, Haiyang Zhang, Bing Yin (<strong>RecSys 2022</strong>)<br>
       </li>
       <li><p><strong>Task-Agnostic Graph Explanations </strong> [<a href="https://arxiv.org/pdf/2202.08335.pdf">pdf</a>]<br>
